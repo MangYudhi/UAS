@@ -1,0 +1,29 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #a2d9ff;
+}
+
+#menu {
+    background-color: #a2d9ff;
+}
+
+#kontak ul {
+    list-style: none;
+}
+#kontak ul li {
+    display: inline-block;
+    padding: 30px;
+    
+}
+
+#about {
+    padding-top: 6rem;
+}
+
+#menu {
+    padding-top: 6rem;
+}
+
+#formulir {
+    padding-top: 6rem;
+}
